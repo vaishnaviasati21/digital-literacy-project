@@ -78,7 +78,7 @@ Files in `task-2-portfolio/`
 - Completed a beginner coding challenge on **HackerRank**
 - Built a **Digital Literacy Awareness Quiz** using Google Forms (5 questions)
 
-🔗 **Google Form Quiz Link:** [Click here to take the quiz](https://docs.google.com/forms/d/e/1FAIpQLSf7WJUXWRfIVQc1G1CvgCLPhlxzXa1lEaMbexlG8vfwlal8Zw/viewform?usp=publish-editor)
+ **Google Form Quiz Link:** [Click here to take the quiz](https://docs.google.com/forms/d/e/1FAIpQLSf7WJUXWRfIVQc1G1CvgCLPhlxzXa1lEaMbexlG8vfwlal8Zw/viewform?usp=publish-editor)
 
  Files in `task-3-platforms/`
 
@@ -88,7 +88,7 @@ Files in `task-2-portfolio/`
 - Drafted two professional emails following email etiquette rules
 - Created a Social Media Do's and Don'ts checklist for college students
 
-📂 Files in `task-4-email-etiquette/`
+ Files in `task-4-email-etiquette/`
 
 ---
 
@@ -101,14 +101,14 @@ Files in `task-5-cybercrime/`
 
 ---
 
-## 📄 Project Report
+##  Project Report
 
 The full written report is available here:
-📎 [`report/Project_Report.pdf`]
+ [`report/Project_Report.pdf`]
 
 ---
 
-## 📋 Declaration
+##  Declaration
 
 I hereby declare that all the work submitted in this repository is my own. Written reflections are in my own words. Screenshots are from my own accounts. I have cited all external sources used in the References section of my project report.
 
