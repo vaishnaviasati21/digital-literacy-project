@@ -24,25 +24,25 @@ All five tasks are documented here, along with a full project report inside the 
 
 ```
 digital-literacy-project/
-├── README.md                        ← You are here
+├── README.md                        
 ├── report/
-│   └── Project_Report.pdf           ← Full written report
+│   └── Project_Report.pdf           
 ├── task-1-presentation/
-│   ├── infographic.png              ← Digital Literacy infographic
+│   ├── infographic.png              
 ├── task-2-portfolio/
-│   ├── github-profile.png          ← Screenshot of GitHub profile
-│   ├── linkedin-profile.png        ← Screenshot of LinkedIn profile
-│   └── stackoverflow-profile.png          ← Screenshot of Kaggle profile
+│   ├── github-profile.png          
+│   ├── linkedin-profile.png        
+│   └── stackoverflow-profile.png          
 ├── task-3-platforms/
-│   ├── hackerrank-challenge.png    ← Completed coding challenge screenshot
-│   ├── google-form.png             ← Screenshot of Digital Literacy Quiz form
-│   └── google-sheet.png           ← Screenshot of linked response sheet
+│   ├── hackerrank-challenge.png    
+│   ├── google-form.png             
+│   └── google-sheet.png          
 ├── task-4-email-etiquette/
-│   ├── email-drafts.pdf            ← Two professional email drafts
-│   └── social-media-checklist.md  ← Do's and Don'ts for social media
+│   ├── email-drafts.pdf          
+│   └── social-media-checklist.md 
 └── task-5-cybercrime/
-    ├── casestudy.pdf                ← Cybercrime case study write-up
-    └── prevention-checklist.md    ← Stay Safe Online checklist
+    ├── casestudy.pdf              
+    └── prevention-checklist.md    
 ```
 
 ---
@@ -66,9 +66,9 @@ Set up professional profiles on three platforms to build an online presence:
 |----------|---------|--------------| 
 | **GitHub** | Code portfolio & projects |
 (https://github.com/vaishnaviasati21) |
-| **LinkedIn** | Professional networking | [linkedin.com/in/yourprofile]
+| **LinkedIn** | Professional networking |
 (https://www.linkedin.com/in/vaishnavi-asati-aa1a60394/) |
-| **Stack overflow** | Data science & ML practice | [kaggle.com/yourusername](https://stackoverflow.com/users/32554769/vaishnavi-asati) |
+| **Stack overflow** | Data science & ML practice |(https://stackoverflow.com/users/32554769/vaishnavi-asati) |
 
 Files in `task-2-portfolio/`
 
